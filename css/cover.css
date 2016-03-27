@@ -126,7 +126,7 @@ body {
   .masthead-brand {
     float: left;
   }
-  .masthead-nav {
+  .masthead-nav { 
     float: right;
   }
 }
