@@ -32,6 +32,12 @@ video#bgvid {
    opacity: .5;
 }
 
+.cupper-logo-brand {
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
 /* Custom default button */
 .btn-default,
 .btn-default:hover,
