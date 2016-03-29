@@ -160,6 +160,10 @@ body {
   color: rgba(255,255,255,.5);
 }
 
+.row {
+  padding: 0
+}
+
 
 /*
  * Affix and center
@@ -203,6 +207,6 @@ body {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 700px;
+    width: 900px;
   }
 }
