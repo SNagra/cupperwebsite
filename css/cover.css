@@ -26,8 +26,6 @@ video#bgvid {
     background-size: cover; 
 }
 
-
-
 .stopfade { 
    opacity: .5;
 }
@@ -47,7 +45,6 @@ video#bgvid {
   background-color: #fff;
   border: 1px solid #fff;
 }
-
 
 /*
  * Base structure
@@ -90,7 +87,6 @@ body {
 .inner {
   padding: 30px;
 }
-
 
 /*
  * Header
