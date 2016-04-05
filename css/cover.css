@@ -180,6 +180,9 @@ body {
     #bgvid {
         display: none;
     }
+    .iphone-screenshot {
+      width: 100px;
+    }
 }
 
 @media (min-width: 768px) {
