@@ -50,7 +50,7 @@ video#bgvid {
  * Base structure
  */
 html {
-  background-color: rgba(76,85,123,0.6); 
+  background-color: rgba(25,25,25,0.7); 
 }
 
 html,
@@ -62,7 +62,7 @@ body {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
-  background-color: rgba(76,85,123,0.6);
+  background-color: rgba(25,25,25,0.7);
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
