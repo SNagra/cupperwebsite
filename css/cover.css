@@ -172,7 +172,7 @@ body {
  @media screen and (max-device-width: 800px) {
     html {
          background: url(../images/topcafe.png) #000 no-repeat center center fixed;
-         background-color: rgba(25,25,25,0.5);
+         /*background-color: rgba(25,25,25,0.5);*/
          height: 100%
     }
     body {
@@ -182,7 +182,10 @@ body {
         display: none;
     }
     .iphone-screenshot {
-      width: 100px;
+      width: 200px;
+    }
+    .site-wrapper {
+      background-color: rgba(25,25,25,0.5);
     }
 }
 
