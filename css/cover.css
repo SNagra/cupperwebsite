@@ -36,6 +36,10 @@ video#bgvid {
   margin-bottom: 25px;
 }
 
+.iphone-screenshot {
+  width: 200px;
+}
+
 /* Custom default button */
 .btn-default,
 .btn-default:hover,
