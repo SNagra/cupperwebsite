@@ -191,7 +191,8 @@ p.copyright {
     margin: 15px 0 0;
 }
 
-html {
+@media screen and (max-device-width: 800px) {
+    html {
          background: url(../images/topcafe.png) #000 no-repeat center center fixed;
          background-color: rgba(25,25,25,0.0);
          height: 100%
@@ -208,3 +209,4 @@ html {
     .site-wrapper {
       background-color: rgba(25,25,25,0.7);
     }
+}
