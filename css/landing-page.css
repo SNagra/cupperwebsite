@@ -190,3 +190,21 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+html {
+         background: url(../images/topcafe.png) #000 no-repeat center center fixed;
+         background-color: rgba(25,25,25,0.0);
+         height: 100%
+    }
+    body {
+      background-color: rgba(25,25,25,0.0);
+    }
+    #bgvid {
+        display: none;
+    }
+    .iphone-screenshot {
+      width: 200px;
+    }
+    .site-wrapper {
+      background-color: rgba(25,25,25,0.7);
+    }
